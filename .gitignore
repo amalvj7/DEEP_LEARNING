@@ -1,0 +1,36 @@
+# Large data files
+*.tar.gz
+*.zip
+*.pth
+*.pt
+*.h5
+*.pkl
+*.pickle
+*.ckpt
+
+# Dataset folders
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
